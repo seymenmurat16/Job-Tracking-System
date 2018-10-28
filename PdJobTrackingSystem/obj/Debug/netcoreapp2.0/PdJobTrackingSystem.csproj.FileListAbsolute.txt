@@ -1,0 +1,10 @@
+c:\users\murat\source\repos\PdJobTrackingSystem\PdJobTrackingSystem\bin\Debug\netcoreapp2.0\PdJobTrackingSystem.deps.json
+c:\users\murat\source\repos\PdJobTrackingSystem\PdJobTrackingSystem\bin\Debug\netcoreapp2.0\PdJobTrackingSystem.runtimeconfig.json
+c:\users\murat\source\repos\PdJobTrackingSystem\PdJobTrackingSystem\bin\Debug\netcoreapp2.0\PdJobTrackingSystem.runtimeconfig.dev.json
+c:\users\murat\source\repos\PdJobTrackingSystem\PdJobTrackingSystem\bin\Debug\netcoreapp2.0\PdJobTrackingSystem.dll
+c:\users\murat\source\repos\PdJobTrackingSystem\PdJobTrackingSystem\bin\Debug\netcoreapp2.0\PdJobTrackingSystem.pdb
+c:\users\murat\source\repos\PdJobTrackingSystem\PdJobTrackingSystem\obj\Debug\netcoreapp2.0\PdJobTrackingSystem.csproj.CoreCompileInputs.cache
+c:\users\murat\source\repos\PdJobTrackingSystem\PdJobTrackingSystem\obj\Debug\netcoreapp2.0\PdJobTrackingSystem.AssemblyInfoInputs.cache
+c:\users\murat\source\repos\PdJobTrackingSystem\PdJobTrackingSystem\obj\Debug\netcoreapp2.0\PdJobTrackingSystem.AssemblyInfo.cs
+c:\users\murat\source\repos\PdJobTrackingSystem\PdJobTrackingSystem\obj\Debug\netcoreapp2.0\PdJobTrackingSystem.dll
+c:\users\murat\source\repos\PdJobTrackingSystem\PdJobTrackingSystem\obj\Debug\netcoreapp2.0\PdJobTrackingSystem.pdb

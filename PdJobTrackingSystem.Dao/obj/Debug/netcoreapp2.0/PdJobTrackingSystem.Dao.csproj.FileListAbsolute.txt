@@ -1,0 +1,11 @@
+c:\users\murat\source\repos\PdJobTrackingSystem\PdJobTrackingSystem.Dao\bin\Debug\netcoreapp2.0\PdJobTrackingSystem.Dao.deps.json
+c:\users\murat\source\repos\PdJobTrackingSystem\PdJobTrackingSystem.Dao\bin\Debug\netcoreapp2.0\PdJobTrackingSystem.Dao.runtimeconfig.json
+c:\users\murat\source\repos\PdJobTrackingSystem\PdJobTrackingSystem.Dao\bin\Debug\netcoreapp2.0\PdJobTrackingSystem.Dao.runtimeconfig.dev.json
+c:\users\murat\source\repos\PdJobTrackingSystem\PdJobTrackingSystem.Dao\bin\Debug\netcoreapp2.0\PdJobTrackingSystem.Dao.dll
+c:\users\murat\source\repos\PdJobTrackingSystem\PdJobTrackingSystem.Dao\bin\Debug\netcoreapp2.0\PdJobTrackingSystem.Dao.pdb
+c:\users\murat\source\repos\PdJobTrackingSystem\PdJobTrackingSystem.Dao\obj\Debug\netcoreapp2.0\PdJobTrackingSystem.Dao.csprojAssemblyReference.cache
+c:\users\murat\source\repos\PdJobTrackingSystem\PdJobTrackingSystem.Dao\obj\Debug\netcoreapp2.0\PdJobTrackingSystem.Dao.csproj.CoreCompileInputs.cache
+c:\users\murat\source\repos\PdJobTrackingSystem\PdJobTrackingSystem.Dao\obj\Debug\netcoreapp2.0\PdJobTrackingSystem.Dao.AssemblyInfoInputs.cache
+c:\users\murat\source\repos\PdJobTrackingSystem\PdJobTrackingSystem.Dao\obj\Debug\netcoreapp2.0\PdJobTrackingSystem.Dao.AssemblyInfo.cs
+c:\users\murat\source\repos\PdJobTrackingSystem\PdJobTrackingSystem.Dao\obj\Debug\netcoreapp2.0\PdJobTrackingSystem.Dao.dll
+c:\users\murat\source\repos\PdJobTrackingSystem\PdJobTrackingSystem.Dao\obj\Debug\netcoreapp2.0\PdJobTrackingSystem.Dao.pdb
